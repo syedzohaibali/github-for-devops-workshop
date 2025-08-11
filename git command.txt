@@ -4,3 +4,6 @@ git config user.email "syedz@gmail.com"
 git commit -m "Add prime number checking script"
 git status
 git add prime.py ##adds the file to staged from untracked
+git clone url-copied-from-github
+fork is for git to git copy
+
