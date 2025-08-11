@@ -7,3 +7,6 @@ git add prime.py ##adds the file to staged from untracked
 git clone url-copied-from-github
 fork is for git to git copy
 new changes
+git checkout -B zodev (create and switch to new branch)
+git branch (shows current branch)
+
