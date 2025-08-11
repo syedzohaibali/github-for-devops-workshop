@@ -1,0 +1,6 @@
+git restore prime.py
+git config user.name "Syed"
+git config user.email "syedz@gmail.com"
+git commit -m "Add prime number checking script"
+git status
+git add prime.py ##adds the file to staged from untracked
