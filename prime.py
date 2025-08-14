@@ -56,7 +56,6 @@ def main() -> None:
 
     prime_flag = is_prime(n)
     print(f"{n} is {'a prime' if prime_flag else 'not a prime'} number.")
-
     below = primes_below(n)
     if below:
         print(f"Primes less than {n} ({len(below)} total):")
